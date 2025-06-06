@@ -1,0 +1,13 @@
+C:\Users\metat\source\repos\F1\F1\bin\Debug\F1.exe.config
+C:\Users\metat\source\repos\F1\F1\bin\Debug\F1.exe
+C:\Users\metat\source\repos\F1\F1\bin\Debug\F1.pdb
+C:\Users\metat\source\repos\F1\F1\obj\Debug\F1.csproj.AssemblyReference.cache
+C:\Users\metat\source\repos\F1\F1\obj\Debug\F1.Properties.Resources.resources
+C:\Users\metat\source\repos\F1\F1\obj\Debug\F1.csproj.GenerateResource.cache
+C:\Users\metat\source\repos\F1\F1\obj\Debug\F1.csproj.CoreCompileInputs.cache
+C:\Users\metat\source\repos\F1\F1\obj\Debug\F1.exe
+C:\Users\metat\source\repos\F1\F1\obj\Debug\F1.pdb
+C:\Users\metat\source\repos\F1\F1\obj\Debug\F1.Menu.resources
+C:\Users\metat\source\repos\F1\F1\obj\Debug\F1.Form2.resources
+C:\Users\metat\source\repos\F1\F1\obj\Debug\F1.CuentaFree.resources
+C:\Users\metat\source\repos\F1\F1\obj\Debug\F1.FCEmpresa.resources
